@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About - DigitalHeart</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('https://th.bing.com/th/id/OIP.j1ve3SvbtwLSv_sX07ghEAHaHa?rs=1&pid=ImgDetMain');
+            background-repeat: no-repeat;
+            background-size: cover;
+            color: white;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            background-color: transparent;
+            padding: 50px;
+        }
+        h1 {
+            font-family: 'Orbitron', sans-serif;
+            color: #009688;
+            font-size: 3em;
+        }
+        p {
+            font-family: 'Roboto Slab', serif;
+            font-weight: bold;
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .card {
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 10px;
+        }
+        .card h2 {
+            color: #009688;
+        }
+        .card p {
+            font-family: 'Roboto Slab', serif;
+            font-weight: bold;
+            color: white;
+        }
+        .card button {
+            background-color: #009688;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .footer {
+            background-color: rgba(0, 0, 0, 0.8);
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .footer a {
+            color: #009688;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        .footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>DigitalHeart: Your Cybersecurity Companion</h1>
+        <p>
+            At DigitalHeart, we understand that in our digital world, security is paramount. No matter where you are, whatever you do, we believe you have the right to a secure digital experience.
+        </p>
+        <p>
+            DigitalHeart is an application designed to clean files from cyberattacks, enhancing security and building trust among community members. Our mission is to provide a safe and secure digital environment for everyone.
+        </p>
+        <p>
+            For more information, please feel free to <a href="mailto:support@digitalheart.com" style="color: #009688;">contact us</a>.
+        </p>
+    </div>
+    <div class="container">
+        <h1>How we keep you safe</h1>
+        <p>Today's connected world requires us to share more personal information online than ever before. But that doesn't mean you have to compromise your safety, privacy, or identity.</p>
+        <div class="card">
+            <h2>Free antivirus, no strings attached</h2>
+            <p>Everyone has the right to live freely and safely online. That's why our award-winning antivirus is free to all.</p>
+            <button>LEARN MORE</button>
+        </div>
+        <div class="card">
+            <h2>A smoother, faster online experience</h2>
+            <p>Work, play, and explore online without your devices slowing you down, thanks to our easy-to-use cleanup and performance tools.</p>
+            <button>LEARN MORE</button>
+        </div>
+        <div class="card">
+            <h2>A browser built for privacy</h2>
+            <p>Our private browser has advanced security built in so you can browse, shop, and bank safely on any website.</p>
+            <button>LEARN MORE</button>
+        </div>
+        <div class="card">
+            <h2>Protecting business dreams</h2>
+            <p>Whether your business employs one person or 300, we want to keep it safe - today and tomorrow.</p>
+            <button>LEARN MORE</button>
+        </div>
+    </div>
+    <!-- Footer section starts here -->
+    <div class="footer">
+        <p>© 2024 Gen Digital Inc. All rights reserved.</p>
+        <a href="#">Privacy policy</a>
+        <a href="#">Products policy</a>
+        <a href="#">License Agreements</a>
+        <a href="file:///C:/Users/Admin/Untitled-12.html">Go to Homepage</a>
+        <a href="#">About DigitalHeart</a>
+        <a href="#">Go to homepage</a>
+    </div>
+    <!-- Footer section ends here -->
+</body>
+</html>
